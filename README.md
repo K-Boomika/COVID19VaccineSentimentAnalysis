@@ -1,2 +1,3 @@
-# COVID19VaccineSentimentAnalysis
-Machine Learning Project
+# COVID-19 Vaccine Sentiment Analysis
+
+Machine Learning Final Project
